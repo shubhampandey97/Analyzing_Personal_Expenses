@@ -1,3 +1,4 @@
+````markdown
 # Analyzing Personal Expenses
 
 This project is designed to help you track and analyze your personal expenses. It includes a data insertion script to populate a MySQL database with expense data and a Streamlit dashboard to visualize and analyze the expenses.
